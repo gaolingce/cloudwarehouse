@@ -1,0 +1,31 @@
+
+
+小程序常用参数
+
+-----------------------------------
+
+
+仓库云
+
+Appid: wxaf74f4bf9a40154d
+
+AppSecret: 306fe16ef72ed457046a9b7c303a63cf
+
+
+-----------------------------------
+
+
+高铃策
+
+微信号： LingceGao
+
+OpenId: o9tf70MOdK7an7Mw7_b2d5Yr6wIw
+
+
+-----------------------------------
+
+高云飞
+
+微信号： Gaoyunfei-888
+
+OpenId： o9tf70LUn9aH1CnADCIIXvCk2wo8
